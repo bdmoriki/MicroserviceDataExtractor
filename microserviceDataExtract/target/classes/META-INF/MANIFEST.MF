@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: microserviceDataExtract
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Bruno
+Implementation-Vendor-Id: com.itau
+Build-Jdk: 1.8.0_162
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/microserviceDataExtract
+Created-By: Maven Integration for Eclipse
+
